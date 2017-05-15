@@ -1,0 +1,6 @@
+framework module Pods_bankcard {
+  umbrella header "Pods-bankcard-umbrella.h"
+
+  export *
+  module * { export * }
+}
